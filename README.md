@@ -3,60 +3,35 @@ CodeStx - PHP Code development packagist
 
 Composer helps you declare, manage, and install dependencies of PHP projects.
 
-See [https://getcomposer.org/](https://getcomposer.org/) for more information and documentation.
+See [Webapp Integration](https://github.com/CodeStx/Webapp/wiki) for more information and documentation.
 
-[![Continuous Integration](https://github.com/composer/composer/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/composer/composer/actions)
+[comment]: <> [![Continuous Integration](https://github.com/composer/composer/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/composer/composer/actions)
 
 Installation / Usage
 --------------------
 
-Download and install Composer by following the [official instructions](https://getcomposer.org/download/).
+Download and install Composer by following the [official instructions](https://github.com/CodeStx/Webapp/wiki#install).
 
-For usage, see [the documentation](https://getcomposer.org/doc/).
+For usage, see [the documentation](https://github.com/CodeStx/Webapp/wiki/apidoc/).
 
 Packages
 --------
 
 Find packages on [Packagist](https://packagist.org).
 
-Community
----------
-
-IRC channels are on irc.freenode.org: [#composer](irc://irc.freenode.org/composer)
-for users and [#composer-dev](irc://irc.freenode.org/composer-dev) for development.
-
-For support, Stack Overflow also offers a good collection of
-[Composer related questions](https://stackoverflow.com/questions/tagged/composer-php).
-
-Please note that this project is released with a
-[Contributor Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct/).
-By participating in this project and its community you agree to abide by those terms.
-
 Requirements
 ------------
 
-PHP 5.3.2 or above (at least 5.3.4 recommended to avoid potential bugs)
+PHP 7.2 or above (at least 7.4 recommended to avoid potential bugs)
 
 Authors
 -------
 
-- Nils Adermann  | [GitHub](https://github.com/naderman)  | [Twitter](https://twitter.com/naderman) | <naderman@naderman.de> | [naderman.de](https://naderman.de)
-- Jordi Boggiano | [GitHub](https://github.com/Seldaek) | [Twitter](https://twitter.com/seldaek) | <j.boggiano@seld.be> | [seld.be](https://seld.be)
+- devBroxin  | [GitHub](https://github.com/devbroxin)  | [Twitter](https://twitter.com/devbroxin) | <devbroxin@gmail.com> | [broxin.4yousoft.net](https://broxin.4yousoft.net/)
 
-See also the list of [contributors](https://github.com/composer/composer/contributors) who participated in this project.
-
-Security Reports
-----------------
-
-Please send any sensitive issue to [security@packagist.org](mailto:security@packagist.org). Thanks!
+See also the list of [contributors](https://github.com/codestx/webapp/contributors) who participated in this project.
 
 License
 -------
 
-Composer is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-Acknowledgments
----------------
-
-- This project's Solver started out as a PHP port of openSUSE's
-  [Libzypp satsolver](https://en.opensuse.org/openSUSE:Libzypp_satsolver).
+CodeStx::Webapp is licensed under the GNU GPL v3.0 License - see the [LICENSE](LICENSE) file for details
