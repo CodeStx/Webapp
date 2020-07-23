@@ -4,8 +4,9 @@ CodeStx - PHP Code development packagist
 Composer helps you declare, manage, and install dependencies of PHP projects.
 
 See [Webapp Integration](https://github.com/CodeStx/Webapp/wiki) for more information and documentation.
-
-//[![Continuous Integration](https://github.com/composer/composer/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/composer/composer/actions)
+<!-- 
+[![Continuous Integration](https://github.com/composer/composer/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/composer/composer/actions) 
+-->
 
 Installation / Usage
 --------------------
