@@ -1,7 +1,21 @@
 .idea/
-vendor/
+.vagrant/
+*.retry
+
+# Docker
+/docker/apache2/**
+docker-compose.override.yml
+
+# Composer
+composer.phar
 composer.lock
+
+vendor/
+
+# AppCode
+/forum/vendor/
+/forum/qa-config.php
 
 # PHPUnit
 phpunit.xml
-composer.phar
+
