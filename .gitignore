@@ -2,10 +2,6 @@
 .vagrant/
 *.retry
 
-# Docker
-/docker/apache2/**
-docker-compose.override.yml
-
 # Composer
 composer.phar
 composer.lock
@@ -13,8 +9,7 @@ composer.lock
 vendor/
 
 # AppCode
-/forum/vendor/
-/forum/qa-config.php
+app/cache/
 
 # PHPUnit
 phpunit.xml
